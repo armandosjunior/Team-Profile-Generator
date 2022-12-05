@@ -1,4 +1,4 @@
-# Team Profile Generator :busts_in_silhouette:
+# Team Profile Generator :gear:
 
 This project is a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
 
@@ -30,5 +30,6 @@ Link: [Generator Walkthrough Video](https://drive.google.com/file/d/1y6S0JN0MR-f
 
 ### **Steps for future development:**
 ```
-- successfully run generator
+- add more Javascript!
+- successfully be able to add more then one employee
 ```
