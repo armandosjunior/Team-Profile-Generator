@@ -1,0 +1,21 @@
+{
+  "name": "hw10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "keywords": [],
+  "description": ""
+}
