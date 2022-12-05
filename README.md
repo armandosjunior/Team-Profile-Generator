@@ -31,5 +31,5 @@ Link: [Generator Walkthrough Video](https://drive.google.com/file/d/1y6S0JN0MR-f
 ### **Steps for future development:**
 ```
 - add more Javascript!
-- successfully be able to add more then one employee
+- successfully be able to add more than one employee
 ```
