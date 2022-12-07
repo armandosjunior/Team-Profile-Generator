@@ -12,6 +12,7 @@ This React application was created to view a potential employee's deployed React
 ## **Application Acceptance Criteria:**
 ![Image of Project](./assets/images/criteria.png)
 
+(https://drive.google.com/file/d/1y6S0JN0MR-fX8vzLktl6851cRabGfC36/view)
 
 ## **Technology used:**
 ```
